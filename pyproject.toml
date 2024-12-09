@@ -1,0 +1,7 @@
+[project]
+name = "databridgex"
+authors = [
+    {name = "databridgex", email = "reachus@empower2024.org"},
+]
+version = "0.0.0"
+description = "Coming soon"
